@@ -17,7 +17,7 @@ Your blockchain in development can be configured with `config.yml`. To learn mor
 
 To launch your blockchain live on multiple nodes, use `starport network` commands. Learn more about [Starport Network](https://github.com/tendermint/spn).
 
-## Launch blogd
+### Launch blogd
 Go to `cmd/blog` and build `go build`. Then you can use `./blogd` executable.
 
 ### Web Frontend
